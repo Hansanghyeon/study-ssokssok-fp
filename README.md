@@ -1,0 +1,1 @@
+[함수랑 산악회](https://github.com/function-and-mountain)에서 **[쏙쏙 들어오는 함수형 코딩 | 에릭 노먼드 - 교보문고](https://product.kyobobook.co.kr/detail/S000001952246)**을 공부하면서 기록을 남긴다.
